@@ -1,0 +1,11 @@
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\bin\Debug\netcoreapp2.1\MyCodeWars.deps.json
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\bin\Debug\netcoreapp2.1\MyCodeWars.runtimeconfig.json
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\bin\Debug\netcoreapp2.1\MyCodeWars.runtimeconfig.dev.json
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\bin\Debug\netcoreapp2.1\MyCodeWars.dll
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\bin\Debug\netcoreapp2.1\MyCodeWars.pdb
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.csprojAssemblyReference.cache
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.AssemblyInfoInputs.cache
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.AssemblyInfo.cs
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.dll
+C:\Users\Elaynne\source\repos\MyCodeWars\MyCodeWars\MyCodeWars\obj\Debug\netcoreapp2.1\MyCodeWars.pdb
